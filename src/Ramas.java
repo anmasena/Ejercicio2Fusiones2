@@ -17,6 +17,7 @@ public class Ramas {
 		System.out.println(c);
 
 		int f = 6;
+		int g = 7;
 
 	}
 
